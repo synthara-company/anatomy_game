@@ -145,6 +145,43 @@ Contributions to improve the game are welcome! Here's how you can contribute:
 
 This game is provided for educational purposes. The human body illustrations are from public domain sources.
 
+## Release History
+
+### v1.0.0 (April 13, 2025)
+
+**Initial Release**
+- Basic anatomy game with 5 difficulty levels
+- Simple UI with basic styling
+- Core gameplay mechanics implemented
+
+### v1.1.0 (April 13, 2025)
+
+**Enhanced User Experience**
+- Improved typography and visual design
+- Added more fascinating anatomy facts
+- Enhanced body part descriptions
+- Added visual feedback for correct/incorrect answers
+
+### v1.2.0 (April 13, 2025)
+
+**Refined Interface**
+- Implemented clean, minimalist design principles
+- Optimized typography for better readability
+- Reduced visual noise and distractions
+- Created harmonious spacing and layout
+- Added full-screen mode for better immersion
+- Improved color palette for visual harmony
+
+### v1.3.0 (Current)
+
+**Documentation and Accessibility**
+- Added comprehensive README with installation instructions
+- Included gameplay screenshot for visual reference
+- Added design philosophy documentation
+- Improved accessibility with better contrast ratios
+- Added contributing guidelines
+- Optimized for different screen sizes
+
 ## Credits
 
 Created as an educational tool for learning human anatomy by [Synthara Company](https://github.com/synthara-company).
